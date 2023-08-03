@@ -12,7 +12,7 @@ thymeleaf
 
 yml properties
 
-+ Google Analytics Data
+++ Google Analytics Data
 
 ../
 
